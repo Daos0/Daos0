@@ -25,6 +25,6 @@ My stack combines **Next-Gen Web Performance** (Astro 5 Islands) with **RAG Inte
 * **2. RAG Agents for Messengers:**
   Smart bots for **WhatsApp & Telegram** that answer strictly based on your data (No hallucinations).
 * **3. Smart Business Logic:**
-  Deep integration of AI into **Bitrix24 CRM** (Leads, Deals, Automation).
+  Deep integration of AI into **Bitrix24/AmoCRM/CRM** (Leads, Deals, Automation).
 
 👉 **[See Demo: rm-chat.online](https://rm-chat.online)**
