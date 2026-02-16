@@ -1,12 +1,14 @@
 ### Hi there 👋 I'm Roman
 
 **Python Engineer & Architect**
-Specializing in **HighLoad Web (Astro)** and **Autonomous AI Systems (Bitrix24/CRM)**.
-I build digital assets that work on your server, not rented subscriptions.
+I design and build **High-Performance Infrastructure** and **Private AI Ecosystems**.
+My focus is strict: **Speed** (Astro/SSR), **Security** (Self-hosted), and **Deep Integration** (Bitrix24/CRM).
+
+> *No SaaS dependencies. No vendor lock-in. Full control over your data.*
 
 ---
 
-### 🛠 Tech Stack
+### 🛠 Tech Stack (Production Core)
 ![Python](https://img.shields.io/badge/Python-3.12-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Astro](https://img.shields.io/badge/Astro-5.0-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
@@ -15,9 +17,9 @@ I build digital assets that work on your server, not rented subscriptions.
 
 ---
 
-### 🚀 What I do
-* **AI Integration:** RAG-based assistants for Bitrix24/WhatsApp (Wazzup).
-* **High-Performance Web:** SSG/SSR sites with 100/100 Google PageSpeed.
-* **Infrastructure:** Self-hosted solutions via Docker.
+### 🚀 Engineering Focus
+* **Private AI Systems:** RAG-based intelligence (LLM + PgVector) integrated directly into business workflows.
+* **HighLoad Web Architecture:** Astro 5 (SSR) + React 19. Optimized for instant load (100/100 Core Web Vitals).
+* **System Autonomy:** Microservices architecture via Docker. You own the code and the server.
 
-👉 **[Check my architecture demo & portfolio: rm-chat.online](https://rm-chat.online)**
+👉 **[View Architecture Demo: rm-chat.online](https://rm-chat.online)**
