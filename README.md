@@ -28,5 +28,4 @@ My stack combines **Next-Gen Web Performance** (Astro 5 Islands) with **RAG Inte
   Deep integration of AI into **Bitrix24/AmoCRM/CRM** (Leads, Deals, Automation).
 
 👉 **[See Demo: rm-chat.online](https://rm-chat.online)**
-
-👉  **See:(https://youtu.  be/MJ5Qm3dSeqs?si=U3ZqfZ6HqmCoURQT)**
+👉 **[See Demo Video (YouTube)](https://youtu.be/MJ5Qm3dSeqs?si=U3ZqfZ6HqmCoURQT)**
