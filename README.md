@@ -1,16 +1,37 @@
-### Hi 👋 I'm Roman — Python & Web Developer
+# Роман Михайлов — сайты, Mini Apps, чат-боты и AI для бизнеса
 
-I build **modern websites on Astro** and **AI agents that live inside your CRM**.
+Привет! Я Роман, основатель **RM Systems**.
+
+Создаю сайты, Mini Apps, чат-ботов и AI-решения для бизнеса. Интегрирую CRM, автоматизирую заявки, продажи и поддержку — от идеи до работающего цифрового продукта.
+
+> Моя цель — чтобы сайт или бот не просто существовал, а помогал отвечать клиентам, собирать обращения и упрощать ежедневную работу.
+
+Работаю с бизнесом в Чебоксарах и по всей России.
+
+## Чем могу помочь
+
+- **Сайт для бизнеса** — лендинг, корпоративный сайт, каталог или интернет-магазин.
+- **Mini App или чат-бот** — сервис для Telegram и MAX, которым удобно пользоваться прямо в мессенджере.
+- **AI-помощник** — отвечает по базе знаний, помогает клиентам и передаёт заявку менеджеру.
+- **CRM и автоматизация** — связываю сайт, формы и мессенджеры с amoCRM или Битрикс24.
+
+## Избранные проекты
+
+- [**КупиСписок — боты и Mini App для Telegram и MAX**](https://github.com/Daos0/RM_Syst_MAX) — семейные и совместные списки покупок в привычном мессенджере.  
+  [Открыть в Telegram](https://t.me/KupiSpisok_Bot) · [Открыть в MAX](https://max.ru/se13507757_bot)
+
+- [**Шаблон сайта для бизнеса**](https://github.com/Daos0/RM_Syst_Astro) — готовая основа сайта с SEO, формами заявок, региональными страницами и подключаемым AI-чатом.
+
+- [**AI-система для сайта, мессенджеров и CRM**](https://github.com/Daos0/python-fastapi-astro5-crm-bitrix24-rag-ai-ecosystem) — публичная структура проекта, объединяющего обращения с сайта, Telegram, WhatsApp и Битрикс24.
+
+- [**Что умеет AI-ассистент**](https://github.com/Daos0/PROMO) — простое описание AI-помощника для продаж и поддержки без сложных технических терминов.
+
+## Обсудить проект
+
+Есть идея сайта, Mini App, чат-бота или AI-решения? Расскажите о задаче — помогу превратить её в понятный цифровой продукт.
+
+**[Сайт и проекты RM Systems](https://rm-syst.ru/)** · **[Написать в Telegram](https://t.me/M_R_Alexandrovich)**
 
 ---
 
-### What I do
-- 🌐 **Websites on Astro** — landings, corporate sites, online stores. Fast and SEO-friendly, for any task.
-- 🤖 **AI agents** — Telegram & WhatsApp bots that answer strictly from your data (no hallucinations).
-- 🔗 **AI inside your CRM** — Bitrix24, amoCRM and others: leads, deals, automation.
-
----
-
-👉 **Live demo: [rm-syst.ru](https://rm-syst.ru/vladivostok)**
-
-💬 **Telegram: [@dAI_lab](https://t.me/dAI_lab)**
+**Роман Михайлов ✦ RM Systems** · Сайты, Mini Apps, чат-боты, AI-решения и автоматизация для бизнеса · ✦ [rm-syst.ru](https://rm-syst.ru/) ✦
