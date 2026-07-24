@@ -28,10 +28,8 @@
 
 Есть идея сайта, Mini App, чат-бота или AI-решения? Расскажите о задаче — помогу превратить её в понятный цифровой продукт.
 
-**[Сайт и проекты RM Systems](https://rm-syst.ru/)** · **[Написать в Telegram](https://t.me/M_R_Alexandrovich)**
+[**Сайт и проекты RM Systems**](https://rm-syst.ru/) · [**Написать в Telegram**](https://t.me/M_R_Alexandrovich) · [**Роман Михайлов ✦ RM Systems**](https://rm-syst.ru/about)
 
 ---
 
 **Роман Михайлов ✦ RM Systems** · Сайты, Mini Apps, чат-боты, AI-решения и автоматизация для бизнеса · ✦ [rm-syst.ru](https://rm-syst.ru/) ✦
-
-[**Роман Михайлов · RM Systems**](https://rm-syst.ru/about)
