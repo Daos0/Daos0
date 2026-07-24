@@ -33,3 +33,5 @@
 ---
 
 **Роман Михайлов ✦ RM Systems** · Сайты, Mini Apps, чат-боты, AI-решения и автоматизация для бизнеса · ✦ [rm-syst.ru](https://rm-syst.ru/) ✦
+
+[Обо мне](https://rm-syst.ru/about)
